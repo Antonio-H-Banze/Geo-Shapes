@@ -1,0 +1,6 @@
+{
+  "name": "Geo Shapes",
+  "identifier": "com.domain.app.GeoShapes",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
